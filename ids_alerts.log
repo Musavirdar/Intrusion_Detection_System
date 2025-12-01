@@ -1,0 +1,192 @@
+[2025-12-01 12:47:30] SQL injection detected from 127.0.0.1 | Signature: SELECT * FROM users
+[2025-12-01 12:47:30] SQL injection attempt from 127.0.0.1 | Signature: admin'--
+[2025-12-01 12:47:30] XSS attack detected from 127.0.0.1 | Signature: <script>
+[2025-12-01 12:47:30] Directory traversal detected from 127.0.0.1 | Signature: ../
+[2025-12-01 12:56:48] SQL injection detected from 127.0.0.1 | Signature: SELECT * FROM users
+[2025-12-01 12:56:48] SQL injection attempt from 127.0.0.1 | Signature: admin'--
+[2025-12-01 12:56:48] XSS attack detected from 127.0.0.1 | Signature: <script>
+[2025-12-01 12:56:48] Directory traversal detected from 127.0.0.1 | Signature: ../
+[2025-12-01 13:07:06] SQL injection detected from 127.0.0.1 | Signature: SELECT * FROM users
+[2025-12-01 13:07:06] SQL injection attempt from 127.0.0.1 | Signature: admin'--
+[2025-12-01 13:07:06] XSS attack detected from 127.0.0.1 | Signature: <script>
+[2025-12-01 13:07:06] Directory traversal detected from 127.0.0.1 | Signature: ../
+[2025-12-01 13:22:59] SQL injection detected from 127.0.0.1 | Signature: SELECT * FROM users
+[2025-12-01 13:22:59] SQL injection attempt from 127.0.0.1 | Signature: admin'--
+[2025-12-01 13:22:59] XSS attack detected from 127.0.0.1 | Signature: <script>
+[2025-12-01 13:22:59] Directory traversal detected from 127.0.0.1 | Signature: ../
+[2025-12-01 13:24:49] SQL injection detected from 127.0.0.1 | Signature: SELECT * FROM users
+[2025-12-01 13:24:49] SQL injection attempt from 127.0.0.1 | Signature: admin'--
+[2025-12-01 13:24:49] XSS attack detected from 127.0.0.1 | Signature: <script>
+[2025-12-01 13:24:49] Directory traversal detected from 127.0.0.1 | Signature: ../
+[2025-12-01 13:40:44] SQL injection detected from 127.0.0.1 | Signature: SELECT * FROM users
+[2025-12-01 13:40:44] SQL injection attempt from 127.0.0.1 | Signature: admin'--
+[2025-12-01 13:40:44] XSS attack detected from 127.0.0.1 | Signature: <script>
+[2025-12-01 13:40:44] Directory traversal detected from 127.0.0.1 | Signature: ../
+[2025-12-01 13:41:05] SQL injection detected from 127.0.0.1 | Signature: SELECT * FROM users
+[2025-12-01 13:41:05] SQL injection attempt from 127.0.0.1 | Signature: admin'--
+[2025-12-01 13:41:05] XSS attack detected from 127.0.0.1 | Signature: <script>
+[2025-12-01 13:41:05] Directory traversal detected from 127.0.0.1 | Signature: ../
+[2025-12-01 13:50:49] SQL injection detected from 127.0.0.1 | Signature: SELECT * FROM users
+[2025-12-01 13:50:49] SQL injection attempt from 127.0.0.1 | Signature: admin'--
+[2025-12-01 13:50:49] XSS attack detected from 127.0.0.1 | Signature: <script>
+[2025-12-01 13:50:49] Directory traversal detected from 127.0.0.1 | Signature: ../
+[2025-12-01 13:51:04] SQL injection detected from 127.0.0.1 | Signature: SELECT * FROM users
+[2025-12-01 13:51:04] SQL injection attempt from 127.0.0.1 | Signature: admin'--
+[2025-12-01 13:51:04] XSS attack detected from 127.0.0.1 | Signature: <script>
+[2025-12-01 13:51:04] Directory traversal detected from 127.0.0.1 | Signature: ../
+[2025-12-01 13:51:09] SQL injection detected from 127.0.0.1 | Signature: SELECT * FROM users
+[2025-12-01 13:51:09] SQL injection attempt from 127.0.0.1 | Signature: admin'--
+[2025-12-01 13:51:09] XSS attack detected from 127.0.0.1 | Signature: <script>
+[2025-12-01 13:51:09] Directory traversal detected from 127.0.0.1 | Signature: ../
+[2025-12-01 17:31:20] SQL injection detected from 127.0.0.1 | Signature: SELECT * FROM users
+[2025-12-01 17:31:20] SQL injection attempt from 127.0.0.1 | Signature: admin'--
+[2025-12-01 17:31:20] XSS attack detected from 127.0.0.1 | Signature: <script>
+[2025-12-01 17:31:20] Directory traversal detected from 127.0.0.1 | Signature: ../
+[2025-12-01 17:31:25] SQL injection detected from 127.0.0.1 | Signature: SELECT * FROM users
+[2025-12-01 17:31:25] SQL injection attempt from 127.0.0.1 | Signature: admin'--
+[2025-12-01 17:31:25] XSS attack detected from 127.0.0.1 | Signature: <script>
+[2025-12-01 17:31:25] Directory traversal detected from 127.0.0.1 | Signature: ../
+[2025-12-01 17:32:42] SQL injection detected from 127.0.0.1 | Signature: SELECT * FROM users
+[2025-12-01 17:32:42] SQL injection attempt from 127.0.0.1 | Signature: admin'--
+[2025-12-01 17:32:42] XSS attack detected from 127.0.0.1 | Signature: <script>
+[2025-12-01 17:32:42] Directory traversal detected from 127.0.0.1 | Signature: ../
+[2025-12-01 17:51:50] SQL injection detected from 127.0.0.1 | Signature: SELECT * FROM users
+[2025-12-01 17:51:50] SQL injection attempt from 127.0.0.1 | Signature: admin'--
+[2025-12-01 17:51:50] XSS attack detected from 127.0.0.1 | Signature: <script>
+[2025-12-01 17:51:50] Directory traversal detected from 127.0.0.1 | Signature: ../
+[2025-12-01 17:56:16] SQL injection detected from 127.0.0.1 | Signature: SELECT * FROM users
+[2025-12-01 17:56:16] SQL injection attempt from 127.0.0.1 | Signature: admin'--
+[2025-12-01 17:56:16] XSS attack detected from 127.0.0.1 | Signature: <script>
+[2025-12-01 17:56:16] Directory traversal detected from 127.0.0.1 | Signature: ../
+[2025-12-01 17:56:29] SQL injection detected from 127.0.0.1 | Signature: SELECT * FROM users
+[2025-12-01 17:56:29] SQL injection attempt from 127.0.0.1 | Signature: admin'--
+[2025-12-01 17:56:29] XSS attack detected from 127.0.0.1 | Signature: <script>
+[2025-12-01 17:56:29] Directory traversal detected from 127.0.0.1 | Signature: ../
+[2025-12-01 17:56:34] SQL injection detected from 127.0.0.1 | Signature: SELECT * FROM users
+[2025-12-01 17:56:34] SQL injection attempt from 127.0.0.1 | Signature: admin'--
+[2025-12-01 17:56:34] XSS attack detected from 127.0.0.1 | Signature: <script>
+[2025-12-01 17:56:34] Directory traversal detected from 127.0.0.1 | Signature: ../
+[2025-12-01 17:56:37] SQL injection detected from 127.0.0.1 | Signature: SELECT * FROM users
+[2025-12-01 17:56:37] SQL injection attempt from 127.0.0.1 | Signature: admin'--
+[2025-12-01 17:56:37] XSS attack detected from 127.0.0.1 | Signature: <script>
+[2025-12-01 17:56:37] Directory traversal detected from 127.0.0.1 | Signature: ../
+[2025-12-01 17:56:38] SQL injection detected from 127.0.0.1 | Signature: SELECT * FROM users
+[2025-12-01 17:56:38] SQL injection attempt from 127.0.0.1 | Signature: admin'--
+[2025-12-01 17:56:38] XSS attack detected from 127.0.0.1 | Signature: <script>
+[2025-12-01 17:56:38] Directory traversal detected from 127.0.0.1 | Signature: ../
+[2025-12-01 17:56:39] SQL injection detected from 127.0.0.1 | Signature: SELECT * FROM users
+[2025-12-01 17:56:39] SQL injection attempt from 127.0.0.1 | Signature: admin'--
+[2025-12-01 17:56:39] XSS attack detected from 127.0.0.1 | Signature: <script>
+[2025-12-01 17:56:39] Directory traversal detected from 127.0.0.1 | Signature: ../
+[2025-12-01 17:56:40] SQL injection detected from 127.0.0.1 | Signature: SELECT * FROM users
+[2025-12-01 17:56:40] SQL injection attempt from 127.0.0.1 | Signature: admin'--
+[2025-12-01 17:56:40] XSS attack detected from 127.0.0.1 | Signature: <script>
+[2025-12-01 17:56:40] Directory traversal detected from 127.0.0.1 | Signature: ../
+[2025-12-01 17:56:42] SQL injection detected from 127.0.0.1 | Signature: SELECT * FROM users
+[2025-12-01 17:56:42] SQL injection attempt from 127.0.0.1 | Signature: admin'--
+[2025-12-01 17:56:42] XSS attack detected from 127.0.0.1 | Signature: <script>
+[2025-12-01 17:56:42] Directory traversal detected from 127.0.0.1 | Signature: ../
+[2025-12-01 17:58:16] SQL injection detected from 127.0.0.1 | Signature: SELECT * FROM users
+[2025-12-01 17:58:16] SQL injection attempt from 127.0.0.1 | Signature: admin'--
+[2025-12-01 17:58:16] XSS attack detected from 127.0.0.1 | Signature: <script>
+[2025-12-01 17:58:16] Directory traversal detected from 127.0.0.1 | Signature: ../
+[2025-12-01 17:59:39] SQL injection detected from 127.0.0.1 | Signature: SELECT * FROM users
+[2025-12-01 17:59:39] SQL injection attempt from 127.0.0.1 | Signature: admin'--
+[2025-12-01 17:59:39] XSS attack detected from 127.0.0.1 | Signature: <script>
+[2025-12-01 17:59:39] Directory traversal detected from 127.0.0.1 | Signature: ../
+[2025-12-01 17:59:56] SQL injection detected from 127.0.0.1 | Signature: SELECT * FROM users
+[2025-12-01 17:59:56] SQL injection attempt from 127.0.0.1 | Signature: admin'--
+[2025-12-01 17:59:56] XSS attack detected from 127.0.0.1 | Signature: <script>
+[2025-12-01 17:59:56] Directory traversal detected from 127.0.0.1 | Signature: ../
+[2025-12-01 17:59:58] SQL injection detected from 127.0.0.1 | Signature: SELECT * FROM users
+[2025-12-01 17:59:58] SQL injection attempt from 127.0.0.1 | Signature: admin'--
+[2025-12-01 17:59:58] XSS attack detected from 127.0.0.1 | Signature: <script>
+[2025-12-01 17:59:58] Directory traversal detected from 127.0.0.1 | Signature: ../
+[2025-12-01 17:59:59] SQL injection detected from 127.0.0.1 | Signature: SELECT * FROM users
+[2025-12-01 17:59:59] SQL injection attempt from 127.0.0.1 | Signature: admin'--
+[2025-12-01 17:59:59] XSS attack detected from 127.0.0.1 | Signature: <script>
+[2025-12-01 17:59:59] Directory traversal detected from 127.0.0.1 | Signature: ../
+[2025-12-01 18:04:52] SQL injection detected from 127.0.0.1 | Signature: SELECT * FROM users
+[2025-12-01 18:04:52] SQL injection attempt from 127.0.0.1 | Signature: admin'--
+[2025-12-01 18:04:52] XSS attack detected from 127.0.0.1 | Signature: <script>
+[2025-12-01 18:04:52] Directory traversal detected from 127.0.0.1 | Signature: ../
+[2025-12-01 18:05:04] SQL injection detected from 127.0.0.1 | Signature: SELECT * FROM users
+[2025-12-01 18:05:04] SQL injection attempt from 127.0.0.1 | Signature: admin'--
+[2025-12-01 18:05:04] XSS attack detected from 127.0.0.1 | Signature: <script>
+[2025-12-01 18:05:04] Directory traversal detected from 127.0.0.1 | Signature: ../
+[2025-12-01 18:06:56] SQL injection detected from 127.0.0.1 | Signature: SELECT * FROM users
+[2025-12-01 18:06:56] SQL injection attempt from 127.0.0.1 | Signature: admin'--
+[2025-12-01 18:06:56] XSS attack detected from 127.0.0.1 | Signature: <script>
+[2025-12-01 18:06:56] Directory traversal detected from 127.0.0.1 | Signature: ../
+[2025-12-01 18:09:26] SQL injection detected from 127.0.0.1 | Signature: SELECT * FROM users
+[2025-12-01 18:09:26] SQL injection attempt from 127.0.0.1 | Signature: admin'--
+[2025-12-01 18:09:26] XSS attack detected from 127.0.0.1 | Signature: <script>
+[2025-12-01 18:09:26] Directory traversal detected from 127.0.0.1 | Signature: ../
+[2025-12-01 18:09:35] SQL injection detected from 127.0.0.1 | Signature: SELECT * FROM users
+[2025-12-01 18:09:35] SQL injection attempt from 127.0.0.1 | Signature: admin'--
+[2025-12-01 18:09:35] XSS attack detected from 127.0.0.1 | Signature: <script>
+[2025-12-01 18:09:35] Directory traversal detected from 127.0.0.1 | Signature: ../
+[2025-12-01 18:11:31] SQL injection detected from 127.0.0.1 | Signature: SELECT * FROM users
+[2025-12-01 18:11:31] SQL injection attempt from 127.0.0.1 | Signature: admin'--
+[2025-12-01 18:11:31] XSS attack detected from 127.0.0.1 | Signature: <script>
+[2025-12-01 18:11:31] Directory traversal detected from 127.0.0.1 | Signature: ../
+[2025-12-01 18:13:27] SQL injection detected from 127.0.0.1 | Signature: SELECT * FROM users
+[2025-12-01 18:13:27] SQL injection attempt from 127.0.0.1 | Signature: admin'--
+[2025-12-01 18:13:27] XSS attack detected from 127.0.0.1 | Signature: <script>
+[2025-12-01 18:13:27] Directory traversal detected from 127.0.0.1 | Signature: ../
+[2025-12-01 18:13:30] SQL injection detected from 127.0.0.1 | Signature: SELECT * FROM users
+[2025-12-01 18:13:30] SQL injection attempt from 127.0.0.1 | Signature: admin'--
+[2025-12-01 18:13:30] XSS attack detected from 127.0.0.1 | Signature: <script>
+[2025-12-01 18:13:30] Directory traversal detected from 127.0.0.1 | Signature: ../
+[2025-12-01 18:13:38] SQL injection detected from 127.0.0.1 | Signature: SELECT * FROM users
+[2025-12-01 18:13:38] SQL injection attempt from 127.0.0.1 | Signature: admin'--
+[2025-12-01 18:13:38] XSS attack detected from 127.0.0.1 | Signature: <script>
+[2025-12-01 18:13:38] Directory traversal detected from 127.0.0.1 | Signature: ../
+[2025-12-01 18:15:53] SQL injection detected from 127.0.0.1 | Signature: SELECT * FROM users
+[2025-12-01 18:15:53] SQL injection attempt from 127.0.0.1 | Signature: admin'--
+[2025-12-01 18:15:53] XSS attack detected from 127.0.0.1 | Signature: <script>
+[2025-12-01 18:15:53] Directory traversal detected from 127.0.0.1 | Signature: ../
+[2025-12-01 18:16:24] SQL injection detected from 127.0.0.1 | Signature: SELECT * FROM users
+[2025-12-01 18:16:24] SQL injection attempt from 127.0.0.1 | Signature: admin'--
+[2025-12-01 18:16:24] XSS attack detected from 127.0.0.1 | Signature: <script>
+[2025-12-01 18:16:24] Directory traversal detected from 127.0.0.1 | Signature: ../
+[2025-12-01 18:27:49] SQL injection detected from 127.0.0.1 | Signature: SELECT * FROM users
+[2025-12-01 18:27:49] SQL injection attempt from 127.0.0.1 | Signature: admin'--
+[2025-12-01 18:27:49] XSS attack detected from 127.0.0.1 | Signature: <script>
+[2025-12-01 18:27:49] Directory traversal detected from 127.0.0.1 | Signature: ../
+[2025-12-01 18:39:27] SQL injection detected from 127.0.0.1 | Signature: SELECT * FROM users
+[2025-12-01 18:39:27] SQL injection attempt from 127.0.0.1 | Signature: admin'--
+[2025-12-01 18:39:27] XSS attack detected from 127.0.0.1 | Signature: <script>
+[2025-12-01 18:39:27] Directory traversal detected from 127.0.0.1 | Signature: ../
+[2025-12-01 18:40:20] SQL injection detected from 127.0.0.1 | Signature: SELECT * FROM users
+[2025-12-01 18:40:20] SQL injection attempt from 127.0.0.1 | Signature: admin'--
+[2025-12-01 18:40:20] XSS attack detected from 127.0.0.1 | Signature: <script>
+[2025-12-01 18:40:20] Directory traversal detected from 127.0.0.1 | Signature: ../
+[2025-12-01 18:40:20] SQL injection detected from 127.0.0.1 | Signature: SELECT * FROM users
+[2025-12-01 18:40:20] SQL injection attempt from 127.0.0.1 | Signature: admin'--
+[2025-12-01 18:40:20] XSS attack detected from 127.0.0.1 | Signature: <script>
+[2025-12-01 18:40:20] Directory traversal detected from 127.0.0.1 | Signature: ../
+[2025-12-01 18:40:21] SQL injection detected from 127.0.0.1 | Signature: SELECT * FROM users
+[2025-12-01 18:40:21] SQL injection attempt from 127.0.0.1 | Signature: admin'--
+[2025-12-01 18:40:21] XSS attack detected from 127.0.0.1 | Signature: <script>
+[2025-12-01 18:40:21] Directory traversal detected from 127.0.0.1 | Signature: ../
+[2025-12-01 18:40:21] SQL injection detected from 127.0.0.1 | Signature: SELECT * FROM users
+[2025-12-01 18:40:21] SQL injection attempt from 127.0.0.1 | Signature: admin'--
+[2025-12-01 18:40:21] XSS attack detected from 127.0.0.1 | Signature: <script>
+[2025-12-01 18:40:21] Directory traversal detected from 127.0.0.1 | Signature: ../
+[2025-12-01 18:40:22] SQL injection detected from 127.0.0.1 | Signature: SELECT * FROM users
+[2025-12-01 18:40:22] SQL injection attempt from 127.0.0.1 | Signature: admin'--
+[2025-12-01 18:40:22] XSS attack detected from 127.0.0.1 | Signature: <script>
+[2025-12-01 18:40:22] Directory traversal detected from 127.0.0.1 | Signature: ../
+[2025-12-01 18:40:22] SQL injection detected from 127.0.0.1 | Signature: SELECT * FROM users
+[2025-12-01 18:40:22] SQL injection attempt from 127.0.0.1 | Signature: admin'--
+[2025-12-01 18:40:22] XSS attack detected from 127.0.0.1 | Signature: <script>
+[2025-12-01 18:40:22] Directory traversal detected from 127.0.0.1 | Signature: ../
+[2025-12-01 18:40:22] SQL injection detected from 127.0.0.1 | Signature: SELECT * FROM users
+[2025-12-01 18:40:22] SQL injection attempt from 127.0.0.1 | Signature: admin'--
+[2025-12-01 18:40:22] XSS attack detected from 127.0.0.1 | Signature: <script>
+[2025-12-01 18:40:22] Directory traversal detected from 127.0.0.1 | Signature: ../
+[2025-12-01 18:40:23] SQL injection detected from 127.0.0.1 | Signature: SELECT * FROM users
+[2025-12-01 18:40:23] SQL injection attempt from 127.0.0.1 | Signature: admin'--
+[2025-12-01 18:40:23] XSS attack detected from 127.0.0.1 | Signature: <script>
+[2025-12-01 18:40:23] Directory traversal detected from 127.0.0.1 | Signature: ../
