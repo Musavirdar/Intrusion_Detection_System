@@ -18,9 +18,9 @@ How to run (local):
 
 Clone the repo:
 
-git clone https://github.com/<your-username>/<your-repo>.git
+git clone https://github.com/musavirdar/Intrusion_Detection_System.git
 
-cd <your-repo>
+cd <repo>
 
 Create and activate virtualenv (optional but recommended):
 
