@@ -7,7 +7,7 @@ The project is designed to help you learn:
 Network sockets and basic IDS concepts
 
 Flask + Flask-SocketIO for real-time web apps
- 
+
 Frontend integration with Socket.IO and Chart.js
 
 Features
